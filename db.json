@@ -1,0 +1,30 @@
+{
+  "route1": [
+    {
+      "success": true,
+      "message": "route1",
+      "data": [],
+      "id": "caf4"
+    }
+  ],
+  "route2": [
+    {
+      "success": true,
+      "message": "route2",
+      "data": [],
+      "id": "d75e"
+    }
+  ],
+  "products": [
+    {
+      "id": "73b0",
+      "title": "Permen",
+      "price": "1000"
+    },
+    {
+      "title": "Le Mineral",
+      "price": "3500",
+      "id": "c4d7"
+    }
+  ]
+}
